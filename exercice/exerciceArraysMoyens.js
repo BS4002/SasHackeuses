@@ -25,4 +25,11 @@ console.log("EXERCICE14:")
 let t=["apple","banana","cherry","date"];
 t.splice(1,1);
 console.log(t);
+console.log("--------------------------------------------")
+//exercice15
+console.log("EXERCICE15:")
+let numbers=[5,1,8,4,7];
+numbers.sort();
+console.log(numbers);
+
 
