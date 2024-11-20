@@ -57,6 +57,15 @@ let book={
 }
 book.author="jane Doe";
 console.log(book);
+console.log("--------------------------------------------")
+//exercice9
+console.log("EXERCICE9:")
+let car={
+    make:"Toyota",
+    model:"Corolla",
+}
+car.year="2020";
+console.log(car);
 
 
 
