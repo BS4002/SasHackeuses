@@ -66,6 +66,17 @@ let car={
 }
 car.year="2020";
 console.log(car);
+console.log("--------------------------------------------")
+//exercice10
+console.log("EXERCICE10:")
+for (let age in person){
+    if (person.age) {
+        console.log(true);
+    }
+    else {
+        console.log(false);
+    }
+}
 
 
 
