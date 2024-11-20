@@ -23,5 +23,10 @@ let fruit=["mango","peach","pear"]
 console.log(fruit)
 fruit[3]="banana";
 console.log(fruit);
-
+console.log("--------------------------------------------")
+//exercice5
+console.log("EXERCICE 5:")
+let element=["dog","cat","bird"]
+element.pop();
+console.log(element);
 
