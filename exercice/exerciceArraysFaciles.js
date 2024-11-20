@@ -38,4 +38,15 @@ let personne={
     ville:"Casablanca",
 };
 console.log(personne);
+console.log("--------------------------------------------")
+//exercice7
+console.log("EXERCICE7:")
+let person={
+    name:"john",
+    age:25,   
+}
+console.log(person);
+console.log(person.name);
+console.log(person.age);
+
 
