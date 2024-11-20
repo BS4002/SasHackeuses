@@ -19,4 +19,10 @@ let a=[1,2,3];
 let b=[4,5,6];
 let c=a.concat(b);
 console.log(c);
+console.log("--------------------------------------------")
+//exercice14
+console.log("EXERCICE14:")
+let t=["apple","banana","cherry","date"];
+t.splice(1,1);
+console.log(t);
 
