@@ -39,5 +39,14 @@ let double=t1.map(function(nb){
     return nb*2;
 })
 console.log(double);
-
-
+console.log("--------------------------------------------")
+//exercice17
+console.log("EXERCICE17:")
+let car={
+    make:".",
+    model:".",
+    year:".",
+    color:".",
+};
+let nb=Object.keys(car).length;
+console.log(nb);
