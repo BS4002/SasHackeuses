@@ -48,5 +48,15 @@ let person={
 console.log(person);
 console.log(person.name);
 console.log(person.age);
+console.log("--------------------------------------------")
+//exercice8
+console.log("EXERCICE8:")
+let book={
+    title:"javaScript101",
+    author:"john Doe"
+}
+book.author="jane Doe";
+console.log(book);
+
 
 
