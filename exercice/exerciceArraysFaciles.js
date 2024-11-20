@@ -29,4 +29,13 @@ console.log("EXERCICE 5:")
 let element=["dog","cat","bird"]
 element.pop();
 console.log(element);
+console.log("--------------------------------------------")
+//exercice6
+console.log("EXERCICE6:")
+let personne={
+    nom:"salma",
+    age:20,
+    ville:"Casablanca",
+};
+console.log(personne);
 
