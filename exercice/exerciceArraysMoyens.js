@@ -31,5 +31,13 @@ console.log("EXERCICE15:")
 let numbers=[5,1,8,4,7];
 numbers.sort();
 console.log(numbers);
+console.log("--------------------------------------------")
+//exercice16
+console.log("EXERCICE16:")
+let t1=[1,2,3,4];
+let double=t1.map(function(nb){
+    return nb*2;
+})
+console.log(double);
 
 
